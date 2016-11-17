@@ -1,3 +1,5 @@
+#!/bin/python
+
 import numpy as np
 n_species=7
 group_number = 31333
