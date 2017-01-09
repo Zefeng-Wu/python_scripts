@@ -1,4 +1,4 @@
 # python_scripts
 
 
-1. "group.parse.py" can be used to summarize the number of orthlogous genes from each species
+1. group.parse.py : used to summarize the number of orthlogous genes from each species
