@@ -4,7 +4,7 @@
 
 2. 2G4-Finder.py: used to extract G4 sequences by scanning genome DNA sequences(fasta).
 
-3. 3Extract_sequences_from_genome.py: Extracting sequences from genome fasta file or proteins fasta file according to sequences positions.
+3. 3Extract_sequences_from_fasta file.py: Extracting sequences from fasta file according to sequences positions.
 
 4. 4Tandem_repeat_format_convert.py: Convert redult of Tandem repeat finder soft to bed formatted file.  
 
