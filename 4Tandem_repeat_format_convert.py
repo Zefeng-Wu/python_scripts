@@ -1,4 +1,4 @@
-#usage: python xx.py input_name out_name
+#usage: python 4Tandem_repeat_format_convert.py input_name out_name
 import sys
 import re
 pattern = re.compile("[0-9]{1,}")
