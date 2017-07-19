@@ -1,4 +1,4 @@
-# python scripts
+# Some useful Python scripts (mainly for bioinformatics)
 
 1. 1Orthomcl_group_parse.py : used to summarize the number of orthlogous genes in each species from Orthomcl result.
 
