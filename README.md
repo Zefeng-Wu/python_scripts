@@ -20,6 +20,6 @@
 
 10.plot TSS
 <p align="center">
-  <img src="aa" width="350"/>
+  <img src="下载.jpg" width="350"/>
   <img src="bb" width="350"/>
 </p>
