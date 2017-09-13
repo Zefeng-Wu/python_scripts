@@ -23,3 +23,8 @@
   <img src="下载.jpg" width="350"/>
   <img src="bb" width="350"/>
 </p>
+
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/2.js?i=5ltc1pzer4i&amp;m=0&amp;s=130&amp;c=ff0000&amp;t=1" async="async"></script>
