@@ -21,5 +21,4 @@
 10.plot TSS
 <p align="center">
   <img src="2018-06-24 17:32:31屏幕截图.png" width="350"/>
-  <img src="bb" width="350"/>
 </p>
