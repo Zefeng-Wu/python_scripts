@@ -6,4 +6,5 @@ awk 'L!=$2 {print $1, $2, $4,"\n" $3} {L=$2}'    #将第一行的第二列(基�
 ## ediplus 替换
 ENST\d{1,} 
  
+cat Vigna_angularis.Vigan1.1.cds.all.fa| cut -d" " -f1,4 | sed 's/gene://' | sed '/^>/ s/$/ /' | tr -s "\s" |  tr -d "\n" | sed 's/>/\n>/g' | sed '1d' | awk -v OFS="\t" '{print $1, $2, $3, length($3)}' | sort -k2,2 -k4nr | awk 'L!=$2 {print  ">"$2,"\n" $3} {L=$2}' 
 
