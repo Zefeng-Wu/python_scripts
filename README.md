@@ -8,7 +8,7 @@
 
 4. 4Tandem_repeat_format_convert.py: Convert redult of Tandem repeat finder soft to bed formatted file.  
 
-5.
+5. Explore NCBI data
 
 6.
 
